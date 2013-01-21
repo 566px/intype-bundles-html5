@@ -1,4 +1,4 @@
-intype-bundles-html5
+HTML5 bundle
 ====================
 
-HTML5 bundle converted from TextMate
+For how to install, see http://inotai.com/intype/manual/15/bundles.
